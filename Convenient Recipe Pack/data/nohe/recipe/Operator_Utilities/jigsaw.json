@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": ["minecraft:structure_block"],
+  "result": {
+    "id": "minecraft:jigsaw",
+    "count": 1
+  }
+}

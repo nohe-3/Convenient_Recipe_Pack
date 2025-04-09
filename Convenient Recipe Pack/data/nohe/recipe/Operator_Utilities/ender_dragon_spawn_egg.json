@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": ["minecraft:command_block", "minecraft:dragon_egg"],
+  "result": {
+    "id": "minecraft:ender_dragon_spawn_egg",
+    "count": 1
+  }
+}

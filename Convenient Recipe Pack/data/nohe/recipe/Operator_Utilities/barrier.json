@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": ["minecraft:command_block", "minecraft:glass"],
+  "result": {
+    "id": "minecraft:barrier",
+    "count": 1
+  }
+}

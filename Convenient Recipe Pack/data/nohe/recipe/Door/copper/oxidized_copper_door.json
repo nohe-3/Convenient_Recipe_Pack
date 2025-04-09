@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["AA", "AA", "AA"],
+  "key": {
+    "A": "minecraft:oxidized_copper"
+  },
+  "result": {
+    "count": 12,
+    "id": "minecraft:oxidized_copper_door"
+  }
+}

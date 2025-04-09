@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["AA"],
+  "key": {
+    "A": "#minecraft:warped_stems"
+  },
+  "result": {
+    "count": 4,
+    "id": "minecraft:warped_pressure_plate"
+  }
+}

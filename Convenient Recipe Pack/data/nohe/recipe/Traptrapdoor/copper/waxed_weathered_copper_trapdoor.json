@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["AAA", "AAA"],
+  "key": {
+    "A": "minecraft:waxed_weathered_copper"
+  },
+  "result": {
+    "count": 8,
+    "id": "minecraft:waxed_weathered_copper_trapdoor"
+  }
+}

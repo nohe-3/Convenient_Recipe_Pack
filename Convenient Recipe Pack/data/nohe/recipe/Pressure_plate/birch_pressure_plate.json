@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["AA"],
+  "key": {
+    "A": "#minecraft:birch_logs"
+  },
+  "result": {
+    "count": 4,
+    "id": "minecraft:birch_pressure_plate"
+  }
+}

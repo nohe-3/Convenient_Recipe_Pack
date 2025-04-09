@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:command_block",
+    ["minecraft:filled_map,", "minecraft:_map"]
+  ],
+  "result": {
+    "id": "minecraft:filled_map",
+    "count": 1
+  }
+}

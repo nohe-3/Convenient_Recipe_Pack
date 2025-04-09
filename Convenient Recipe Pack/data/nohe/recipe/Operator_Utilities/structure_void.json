@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": ["minecraft:barrier"],
+  "result": {
+    "id": "minecraft:structure_void",
+    "count": 1
+  }
+}

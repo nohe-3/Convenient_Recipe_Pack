@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["AA", "AA", "AA"],
+  "key": {
+    "A": "minecraft:iron_block"
+  },
+  "result": {
+    "count": 27,
+    "id": "minecraft:iron_door"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["AA", "AA", "AA"],
+  "key": {
+    "A": "#minecraft:birch_logs"
+  },
+  "result": {
+    "count": 12,
+    "id": "minecraft:birch_door"
+  }
+}

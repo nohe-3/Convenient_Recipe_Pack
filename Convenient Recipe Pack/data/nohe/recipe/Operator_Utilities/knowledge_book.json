@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": ["minecraft:command_block", "#minecraft:bookshelf_books"],
+  "result": {
+    "id": "minecraft:knowledge_book",
+    "count": 1
+  }
+}

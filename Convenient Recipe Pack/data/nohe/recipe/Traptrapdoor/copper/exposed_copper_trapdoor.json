@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["AAA", "AAA"],
+  "key": {
+    "A": "minecraft:exposed_copper"
+  },
+  "result": {
+    "count": 8,
+    "id": "minecraft:exposed_copper_trapdoor"
+  }
+}
